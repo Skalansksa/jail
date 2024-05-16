@@ -10,9 +10,9 @@ Copyright (c) 2024 Wick Studio
 
 
 module.exports = {
-    token: '', // توكن
-    jailRoleId: '', // ايدي رتبة السجن
-    jailReportChannelId: '', // ايدي روم الابلاغات
-    adminRoleId: '', // ايدي رتبة الادمن لاستخدام الاوامر
-    serverid: '', // ايدي السيرفر
+    token: 'MTIzOTUwOTM3Mzg5ODg1MDMyNQ.G3AB-2.Dxpd23P598RG5MN9m9ccnnjZzF4TqvO1xIs2sY', // توكن
+    jailRoleId: '1239511821476565003', // ايدي رتبة السجن
+    jailReportChannelId: '1239513578013458476', // ايدي روم الابلاغات
+    adminRoleId: '1149729977038815284','1149729977038815284', // ايدي رتبة الادمن لاستخدام الاوامر
+    serverid: '1149714090139320422', // ايدي السيرفر
 };
